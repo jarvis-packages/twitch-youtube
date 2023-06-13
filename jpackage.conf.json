@@ -1,0 +1,14 @@
+{
+    "name": "twitch_and_youtube",
+    "display_name": "Twitch&youtube",
+    "package_version": "1.0.0",
+    "identifier": "git.jarvispackages.yt_tv",
+    "short_description": "Youtube&Twitch",
+    "long_description": "Open Youtube & Twitch with jarvis package.",
+    "authors": ["Jarvis_Packages"],
+    "git_url": "",
+    "modules" : {
+        "yt": "youtube",
+        "tv": "twitch"
+    }
+}

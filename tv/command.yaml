@@ -1,0 +1,15 @@
+list:
+- command:
+    action: ahk
+    exe_path: exe/run_twitch.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+    - открой твич
+    - открой стриминговый сервис твич
+    - запусти твич
+    - запусти стриминговый сервис твич
