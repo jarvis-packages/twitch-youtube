@@ -6,7 +6,7 @@
     "short_description": "Youtube&Twitch",
     "long_description": "Open Youtube & Twitch with jarvis package.",
     "authors": ["Jarvis_Packages"],
-    "git_url": "",
+    "git_url": "https://github.com/jarvis-packages/twitch-youtube",
     "modules" : {
         "yt": "youtube",
         "tv": "twitch"
