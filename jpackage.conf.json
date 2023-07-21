@@ -4,7 +4,7 @@
         "package_version": "0.0.1",
         "package_identifier": "gh.jarvispackages.yt-tv",
         "package_authors": ["JarvisPackages"],
-        "git_url": "https://github.com/jarvis-packages/twitch-youtube",
+        "git_url": "https://github.com/jarvis-packages/twitch-youtube"
     },
     "package": {
         "display_name": "Twitch&youtube",
