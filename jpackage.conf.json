@@ -1,12 +1,15 @@
 {
-    "name": "twitch_and_youtube",
-    "display_name": "Twitch&youtube",
-    "package_version": "1.0.0",
-    "identifier": "git.jarvispackages.yt_tv",
-    "short_description": "Youtube&Twitch",
-    "long_description": "Open Youtube & Twitch with jarvis package.",
-    "authors": ["Jarvis_Packages"],
-    "git_url": "https://github.com/jarvis-packages/twitch-youtube",
+    "bundle": {
+        "package_name": "twitch-and-youtube",
+        "package_version": "0.0.1",
+        "package_identifier": "gh.jarvispackages.yt-tv",
+        "package_authors": ["JarvisPackages"],
+        "git_url": "https://github.com/jarvis-packages/twitch-youtube",
+    },
+    "package": {
+        "display_name": "Twitch&youtube",
+        "description": "Open Youtube & Twitch with jarvis package."
+    },
     "modules" : {
         "yt": "youtube",
         "tv": "twitch"
